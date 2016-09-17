@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="7da473b5-029d-4458-9286-9b88ac166520" Title="IISTA.AssemblySearch" Url="html/89486b14-a5a8-88e8-532e-9d55dc5edd46.htm">
+    <HelpTOCNode Id="ab1c8dd2-8af8-42e1-bd8e-b510f443c1ae" Title="ClassInfoCaching Class" Url="html/1de7e560-3f16-9a02-6e32-b57cb72acd51.htm">
+      <HelpTOCNode Title="ClassInfoCaching Constructor " Url="html/b675a356-1b3d-59aa-9c32-1095d76a302f.htm" />
+      <HelpTOCNode Title="ClassInfoCaching Constructor " Url="html/82d1b034-294e-270e-a4b4-eccdb53e06b7.htm" />
+      <HelpTOCNode Id="a355577b-e5af-4ab9-814e-aa2d676c0839" Title="ClassInfoCaching Fields" Url="html/b13daf95-163d-aa93-1b6a-2c259ecc8f19.htm">
+        <HelpTOCNode Title="_classesInfo Field" Url="html/6606c573-6d82-e07c-71aa-2f486348f08d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="41ae8d17-8a14-45b6-b4ac-032468ab9a28" Title="ClassInfoCaching Methods" Url="html/7e18b180-88db-1b7b-3095-85cf1f075588.htm">
+        <HelpTOCNode Title="CutClassFullName Method " Url="html/09f64437-6ca7-cd0d-7b37-1c8726e7cef5.htm" />
+        <HelpTOCNode Title="PopulateClassesInfo Method " Url="html/bf456859-5fc1-4ec7-1c2a-a1856d27b7b2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="966a9346-e3e6-4582-8d0c-24d5b8612493" Title="ClassInfoCaching Properties" Url="html/67234cb9-6665-b4fb-7523-9559980114e0.htm">
+        <HelpTOCNode Title="ClassesInfo Property " Url="html/c9efc525-8e75-80d1-2e6a-666e14ddbaf6.htm" />
+        <HelpTOCNode Title="Instance Property " Url="html/f1e789a7-9352-b9c8-371a-354ac3f0629f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="13d9ecbd-8014-4e01-9185-5e4b2cf4f388" Title="ClassInfoCaching.Nested Class" Url="html/5a904592-3713-14a1-0f96-31fd76eccd09.htm">
+      <HelpTOCNode Title="ClassInfoCaching.Nested Constructor " Url="html/04773d08-339e-10ec-c1d0-0cf1259227ba.htm" />
+      <HelpTOCNode Title="ClassInfoCaching.Nested Constructor " Url="html/bb545355-debd-d17d-649f-60c8815e05ec.htm" />
+      <HelpTOCNode Id="b608011c-6d1c-4be1-8862-b980d4fc35ac" Title="Nested Fields" Url="html/c63ca635-a57b-90ba-71b6-82ddbe2acf02.htm">
+        <HelpTOCNode Title="instance Field" Url="html/cf72512a-aae0-e354-7cf3-dfaf8b587e8c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e8b99d7c-94b4-42a7-834f-4cf56f5c8e10" Title="ControllerResolver Class" Url="html/663e3402-854c-2d21-0619-075d4585f967.htm">
+      <HelpTOCNode Title="ControllerResolver Constructor " Url="html/02840600-af32-fd89-bdb5-275968bf561d.htm" />
+      <HelpTOCNode Id="5e72b645-1eb7-4691-994f-fb6c759c6045" Title="ControllerResolver Fields" Url="html/8822d01f-17f6-96d2-c970-3c59411b73be.htm">
+        <HelpTOCNode Title="_classesInfo Field" Url="html/2e3bed57-3233-310b-924c-4cb1b31c3ca4.htm" />
+        <HelpTOCNode Title="_curretnControllerName Field" Url="html/2d1fba04-971a-6514-55c5-e73fdbb9509d.htm" />
+        <HelpTOCNode Title="_httpRequest Field" Url="html/8ce5175e-b41f-5622-0fe7-6d46f92b3796.htm" />
+        <HelpTOCNode Title="_objectInstance Field" Url="html/d515e6fe-4ec0-5e1a-79f6-995a4ca38949.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="38314799-551f-4fec-a044-df9280bed132" Title="ControllerResolver Properties" Url="html/196bf1b4-dbfe-07f0-32fc-68f44389ef9b.htm">
+        <HelpTOCNode Title="GetInstanceOfController Property " Url="html/7174305e-4cbb-5b76-094c-067218def662.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

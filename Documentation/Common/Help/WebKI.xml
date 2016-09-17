@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Action field" Url="html/e01026c6-ea56-7d77-d5ea-292fbfbe6485.htm" />
+  <HelpKINode Title="ActionController property" Url="html/e971593e-155f-c798-93fe-d831e91a705d.htm" />
+  <HelpKINode Title="ActionMethod property" Url="html/11244aee-a4db-5074-443a-4b4ea1e76668.htm" />
+  <HelpKINode Title="Address field" Url="html/b298e5bf-1835-8aa3-e54b-fc05298802fb.htm" />
+  <HelpKINode Title="AttributeType enumeration" Url="html/9015b1d4-4572-773f-5e10-982f11ac7d85.htm" />
+  <HelpKINode Title="Body enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="Body property" Url="html/fe66fbc4-15a7-8264-803d-d11384cb658c.htm" />
+  <HelpKINode Title="br enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="City field" Url="html/3ebb83ba-14e6-0285-f33c-9a9c960e0ae3.htm" />
+  <HelpKINode Title="Constants class">
+    <HelpKINode Title="Constants Class" Url="html/0537acd9-62d6-db59-51c2-c0d1581306e4.htm" />
+    <HelpKINode Title="about Constants class" Url="html/0537acd9-62d6-db59-51c2-c0d1581306e4.htm" />
+    <HelpKINode Title="constructor" Url="html/0c0ed5f9-01fa-47fb-0660-bce9b1d397d3.htm" />
+    <HelpKINode Title="fields" Url="html/aef16433-ec4d-aec1-5aa5-7bccffa3e9aa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.Action field" Url="html/e01026c6-ea56-7d77-d5ea-292fbfbe6485.htm" />
+  <HelpKINode Title="Constants.Address field" Url="html/b298e5bf-1835-8aa3-e54b-fc05298802fb.htm" />
+  <HelpKINode Title="Constants.City field" Url="html/3ebb83ba-14e6-0285-f33c-9a9c960e0ae3.htm" />
+  <HelpKINode Title="Constants.Constants constructor" Url="html/0c0ed5f9-01fa-47fb-0660-bce9b1d397d3.htm" />
+  <HelpKINode Title="Constants.ControllerAssemblyName field" Url="html/5bb5c61c-93f4-77e2-5f88-f91797287fed.htm" />
+  <HelpKINode Title="Constants.HttpHandshakeVersions field" Url="html/b340bd43-533f-22ab-3316-9479865b565a.htm" />
+  <HelpKINode Title="Constants.HttpMethodNotSupported field" Url="html/d669c667-adf3-35ad-1031-642d6fd2e7ff.htm" />
+  <HelpKINode Title="Constants.HttpOk field" Url="html/0c1e739c-a32a-a2a1-ebe2-c33af6ad031d.htm" />
+  <HelpKINode Title="Constants.Name field" Url="html/c9bc0edd-b79a-1aeb-fb42-b8f87e79c439.htm" />
+  <HelpKINode Title="Constants.Placeholder field" Url="html/ea121a30-1358-b7a3-5a16-2ef964675712.htm" />
+  <HelpKINode Title="Constants.Port field" Url="html/6010788d-edb5-31bb-82fd-709ac351181a.htm" />
+  <HelpKINode Title="Constants.Search field" Url="html/e122d7b9-9e85-a51f-09a9-d19aba4e4707.htm" />
+  <HelpKINode Title="Constants.Type field" Url="html/86c522e7-1924-5758-6c47-1a0c85429a81.htm" />
+  <HelpKINode Title="Constants.Value field" Url="html/8b90fb0d-9915-165a-8677-3ab0be250bcb.htm" />
+  <HelpKINode Title="ControllerAssemblyName field" Url="html/5bb5c61c-93f4-77e2-5f88-f91797287fed.htm" />
+  <HelpKINode Title="CustomExtentions class">
+    <HelpKINode Title="CustomExtentions Class" Url="html/2a526d6d-3b7a-3e8f-b2cf-fd5bf514ca6a.htm" />
+    <HelpKINode Title="about CustomExtentions class" Url="html/2a526d6d-3b7a-3e8f-b2cf-fd5bf514ca6a.htm" />
+    <HelpKINode Title="methods" Url="html/e2b499d7-96e6-7082-ab56-ecb0bad3bf9b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CustomExtentions.CustomStringCompareTo method" Url="html/230dcbf5-6dd3-321d-7f8c-07434f193731.htm" />
+  <HelpKINode Title="CustomStringCompareTo method" Url="html/230dcbf5-6dd3-321d-7f8c-07434f193731.htm" />
+  <HelpKINode Title="Div enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="Form enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="GET enumeration member" Url="html/790c1375-f5f2-0701-da1c-d941a6207cee.htm" />
+  <HelpKINode Title="GetActionControler method" Url="html/9aa24e39-6455-a20b-093c-ee505988a478.htm" />
+  <HelpKINode Title="GetActionMethod method" Url="html/efd32bd6-f9c1-c191-d94b-e6c407daf4f1.htm" />
+  <HelpKINode Title="GetFieldsOfQueryString method" Url="html/6ee2140c-a1d1-eb41-e533-7cb09c79a559.htm" />
+  <HelpKINode Title="Head enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="Headers property" Url="html/6818048d-b525-3217-f25a-7bd8a03c595b.htm" />
+  <HelpKINode Title="Html enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="HttpHandshakeVersions field" Url="html/b340bd43-533f-22ab-3316-9479865b565a.htm" />
+  <HelpKINode Title="HttpMethodNotSupported field" Url="html/d669c667-adf3-35ad-1031-642d6fd2e7ff.htm" />
+  <HelpKINode Title="HttpOk field" Url="html/0c1e739c-a32a-a2a1-ebe2-c33af6ad031d.htm" />
+  <HelpKINode Title="HttpVerbs enumeration" Url="html/790c1375-f5f2-0701-da1c-d941a6207cee.htm" />
+  <HelpKINode Title="HttpVersion property" Url="html/3d40e238-c420-c37b-6e23-ae1839e06ee9.htm" />
+  <HelpKINode Title="IHttpRequest interface">
+    <HelpKINode Title="IHttpRequest Interface" Url="html/a36daab0-e574-53d4-6de5-9804e9f86b00.htm" />
+    <HelpKINode Title="about IHttpRequest interface" Url="html/a36daab0-e574-53d4-6de5-9804e9f86b00.htm" />
+    <HelpKINode Title="properties" Url="html/e8ff0062-9ab9-b702-b268-eed0b8fc7339.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IHttpRequest.Body property" Url="html/fe66fbc4-15a7-8264-803d-d11384cb658c.htm" />
+  <HelpKINode Title="IHttpRequest.Headers property" Url="html/6818048d-b525-3217-f25a-7bd8a03c595b.htm" />
+  <HelpKINode Title="IHttpRequest.Path property" Url="html/e15f312d-3dd8-0a28-5fd3-f463e3a1ad8e.htm" />
+  <HelpKINode Title="IHttpRequest.QueryString property" Url="html/fd556313-e1e7-36c0-3f89-f6656b5bb006.htm" />
+  <HelpKINode Title="IHttpRequest.Verb property" Url="html/16394ee1-7744-2b8e-80a7-2277ee6bea0b.htm" />
+  <HelpKINode Title="IHttpResponse interface">
+    <HelpKINode Title="IHttpResponse Interface" Url="html/450d29a9-d99d-6301-74ca-c7f7586a1b42.htm" />
+    <HelpKINode Title="about IHttpResponse interface" Url="html/450d29a9-d99d-6301-74ca-c7f7586a1b42.htm" />
+    <HelpKINode Title="methods" Url="html/d56249f0-6755-de7d-f201-1bd8f6edec1b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IHttpResponse.SendResponse method" Url="html/96856b9f-d1fc-9938-9f0c-14d5aaf8332f.htm" />
+  <HelpKINode Title="IHttpRoute interface">
+    <HelpKINode Title="IHttpRoute Interface" Url="html/b2636b32-5bca-24b8-b128-dce780cc7618.htm" />
+    <HelpKINode Title="about IHttpRoute interface" Url="html/b2636b32-5bca-24b8-b128-dce780cc7618.htm" />
+    <HelpKINode Title="methods" Url="html/26c1e63b-1d55-5ac1-a6e0-5ace2f8c84b2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IHttpRoute.GetActionControler method" Url="html/9aa24e39-6455-a20b-093c-ee505988a478.htm" />
+  <HelpKINode Title="IHttpRoute.GetActionMethod method" Url="html/efd32bd6-f9c1-c191-d94b-e6c407daf4f1.htm" />
+  <HelpKINode Title="IHttpRoute.GetFieldsOfQueryString method" Url="html/6ee2140c-a1d1-eb41-e533-7cb09c79a559.htm" />
+  <HelpKINode Title="IISTA.Common namespace" Url="html/380b5402-ee16-8b58-b9e8-3d51e8bcf266.htm" />
+  <HelpKINode Title="IISTA.Common.Constants class" Url="html/0537acd9-62d6-db59-51c2-c0d1581306e4.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts namespace" Url="html/8f3971cc-bcb0-3849-e409-c45e878da320.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts.IHttpRequest interface" Url="html/a36daab0-e574-53d4-6de5-9804e9f86b00.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts.IHttpResponse interface" Url="html/450d29a9-d99d-6301-74ca-c7f7586a1b42.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts.IHttpRoute interface" Url="html/b2636b32-5bca-24b8-b128-dce780cc7618.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts.ILogger interface" Url="html/b141a705-82ec-b565-d467-3e5aa5427b99.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts.IPath interface" Url="html/397ad89a-2a59-a691-fe6a-218b6d7396db.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts.IRenderable interface" Url="html/7b9f3233-9c6b-0505-684c-bc0b321c901b.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts.IServer interface" Url="html/128de17f-6c80-2960-ac2c-32c7667a11d8.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts.ITag interface" Url="html/d10e1310-28b5-09bb-b621-63221eb5a69e.htm" />
+  <HelpKINode Title="IISTA.Common.Contracts.IWebVerb interface" Url="html/8157dadd-59b7-6123-4c6e-8447a94b3a73.htm" />
+  <HelpKINode Title="IISTA.Common.Enums namespace" Url="html/d8551b52-6c5a-f48d-893c-26d348ff3c92.htm" />
+  <HelpKINode Title="IISTA.Common.Enums.AttributeType enumeration" Url="html/9015b1d4-4572-773f-5e10-982f11ac7d85.htm" />
+  <HelpKINode Title="IISTA.Common.Enums.HttpVerbs enumeration" Url="html/790c1375-f5f2-0701-da1c-d941a6207cee.htm" />
+  <HelpKINode Title="IISTA.Common.Enums.ResponseState enumeration" Url="html/3ee2c940-9319-3d8c-98a0-d0804dda1281.htm" />
+  <HelpKINode Title="IISTA.Common.Enums.TagType enumeration" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="IISTA.Common.ExtentionMethods namespace" Url="html/89aeb9ed-76df-13be-f313-34fd237627cc.htm" />
+  <HelpKINode Title="IISTA.Common.ExtentionMethods.CustomExtentions class" Url="html/2a526d6d-3b7a-3e8f-b2cf-fd5bf514ca6a.htm" />
+  <HelpKINode Title="ILogger interface">
+    <HelpKINode Title="ILogger Interface" Url="html/b141a705-82ec-b565-d467-3e5aa5427b99.htm" />
+    <HelpKINode Title="about ILogger interface" Url="html/b141a705-82ec-b565-d467-3e5aa5427b99.htm" />
+    <HelpKINode Title="methods" Url="html/d901bf0c-39d7-6cf2-aa79-4fbe4fdf420b.htm" />
+    <HelpKINode Title="properties" Url="html/7ad05c3b-e253-9174-221d-c664a5f1a753.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogger.Path property" Url="html/2bf9b10d-e039-6030-7ada-8257299c35a0.htm" />
+  <HelpKINode Title="ILogger.Write method" Url="html/2c73441b-8e22-408a-05e7-9eb428c7e76a.htm" />
+  <HelpKINode Title="ILogger.WriteLine method" Url="html/4ca3c801-db7a-2650-ac92-c5675edd1c2a.htm" />
+  <HelpKINode Title="Input enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="IPath interface">
+    <HelpKINode Title="IPath Interface" Url="html/397ad89a-2a59-a691-fe6a-218b6d7396db.htm" />
+    <HelpKINode Title="about IPath interface" Url="html/397ad89a-2a59-a691-fe6a-218b6d7396db.htm" />
+    <HelpKINode Title="properties" Url="html/7a71f991-9c68-cb3a-2701-d0d83f520a4a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPath.ActionController property" Url="html/e971593e-155f-c798-93fe-d831e91a705d.htm" />
+  <HelpKINode Title="IPath.ActionMethod property" Url="html/11244aee-a4db-5074-443a-4b4ea1e76668.htm" />
+  <HelpKINode Title="IPath.HttpVersion property" Url="html/3d40e238-c420-c37b-6e23-ae1839e06ee9.htm" />
+  <HelpKINode Title="IPath.Parameters property" Url="html/36a30ad5-6a1d-9a64-abec-3f536f4711ce.htm" />
+  <HelpKINode Title="IPath.QueryString property" Url="html/1f7e3073-2121-3262-b72f-bb454edb83cf.htm" />
+  <HelpKINode Title="IPath.RowPath property" Url="html/1f612fa3-4967-e836-a23a-de90ae47de8f.htm" />
+  <HelpKINode Title="IRenderable interface">
+    <HelpKINode Title="IRenderable Interface" Url="html/7b9f3233-9c6b-0505-684c-bc0b321c901b.htm" />
+    <HelpKINode Title="about IRenderable interface" Url="html/7b9f3233-9c6b-0505-684c-bc0b321c901b.htm" />
+    <HelpKINode Title="methods" Url="html/81d9158b-0b28-0d90-6309-9d6e0dfb4d04.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRenderable.Render method" Url="html/85f426e2-8f5a-6398-5ce4-a486c95c7b92.htm" />
+  <HelpKINode Title="IServer interface">
+    <HelpKINode Title="IServer Interface" Url="html/128de17f-6c80-2960-ac2c-32c7667a11d8.htm" />
+    <HelpKINode Title="about IServer interface" Url="html/128de17f-6c80-2960-ac2c-32c7667a11d8.htm" />
+    <HelpKINode Title="methods" Url="html/fc0f554c-34f4-fdf6-0d01-1164ed6319a6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IServer.Run method" Url="html/eb4b78e9-f8da-1fc5-d80f-625e4b3cf0df.htm" />
+  <HelpKINode Title="IServer.RunWithBrowser method" Url="html/c5224eb8-60c4-2def-369a-cbfab0d14ac4.htm" />
+  <HelpKINode Title="IsGet property" Url="html/366eafed-32a2-552a-0ff1-8056f32ad032.htm" />
+  <HelpKINode Title="IsPost property" Url="html/50a85d1e-46d4-f731-42ac-a375ee2044b9.htm" />
+  <HelpKINode Title="ITag interface">
+    <HelpKINode Title="ITag Interface" Url="html/d10e1310-28b5-09bb-b621-63221eb5a69e.htm" />
+    <HelpKINode Title="about ITag interface" Url="html/d10e1310-28b5-09bb-b621-63221eb5a69e.htm" />
+    <HelpKINode Title="methods" Url="html/003f3fd4-67a5-30cb-ba23-82f04fed41c1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITag.Render method" Url="html/e9fc1948-5454-b051-f461-a88503046c40.htm" />
+  <HelpKINode Title="ITag.With method" Url="html/91e09385-1aa4-5562-afe1-dbd427638d4f.htm" />
+  <HelpKINode Title="IWebVerb interface">
+    <HelpKINode Title="IWebVerb Interface" Url="html/8157dadd-59b7-6123-4c6e-8447a94b3a73.htm" />
+    <HelpKINode Title="about IWebVerb interface" Url="html/8157dadd-59b7-6123-4c6e-8447a94b3a73.htm" />
+    <HelpKINode Title="methods" Url="html/f7c831b3-74b5-6632-0b70-f0dba394cc3d.htm" />
+    <HelpKINode Title="properties" Url="html/f750c79a-b4d3-9601-8585-b35c21591c4b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IWebVerb.IsGet property" Url="html/366eafed-32a2-552a-0ff1-8056f32ad032.htm" />
+  <HelpKINode Title="IWebVerb.IsPost property" Url="html/50a85d1e-46d4-f731-42ac-a375ee2044b9.htm" />
+  <HelpKINode Title="IWebVerb.ToString method" Url="html/444fe532-a8b8-8073-9b2e-1d7eb7683a59.htm" />
+  <HelpKINode Title="IWebVerb.Value property" Url="html/1a73bbd5-3624-ed4d-0f36-fb2bf7658b06.htm" />
+  <HelpKINode Title="MethodNotSupported405 enumeration member" Url="html/3ee2c940-9319-3d8c-98a0-d0804dda1281.htm" />
+  <HelpKINode Title="Name field" Url="html/c9bc0edd-b79a-1aeb-fb42-b8f87e79c439.htm" />
+  <HelpKINode Title="number enumeration member" Url="html/9015b1d4-4572-773f-5e10-982f11ac7d85.htm" />
+  <HelpKINode Title="Ok200 enumeration member" Url="html/3ee2c940-9319-3d8c-98a0-d0804dda1281.htm" />
+  <HelpKINode Title="Parameters property" Url="html/36a30ad5-6a1d-9a64-abec-3f536f4711ce.htm" />
+  <HelpKINode Title="Path property">
+    <HelpKINode Title="IHttpRequest.Path Property " Url="html/e15f312d-3dd8-0a28-5fd3-f463e3a1ad8e.htm" />
+    <HelpKINode Title="ILogger.Path Property " Url="html/2bf9b10d-e039-6030-7ada-8257299c35a0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Placeholder field" Url="html/ea121a30-1358-b7a3-5a16-2ef964675712.htm" />
+  <HelpKINode Title="Port field" Url="html/6010788d-edb5-31bb-82fd-709ac351181a.htm" />
+  <HelpKINode Title="POST enumeration member" Url="html/790c1375-f5f2-0701-da1c-d941a6207cee.htm" />
+  <HelpKINode Title="QueryString property">
+    <HelpKINode Title="IHttpRequest.QueryString Property " Url="html/fd556313-e1e7-36c0-3f89-f6656b5bb006.htm" />
+    <HelpKINode Title="IPath.QueryString Property " Url="html/1f7e3073-2121-3262-b72f-bb454edb83cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Render method">
+    <HelpKINode Title="IRenderable.Render Method " Url="html/85f426e2-8f5a-6398-5ce4-a486c95c7b92.htm" />
+    <HelpKINode Title="ITag.Render Method " Url="html/e9fc1948-5454-b051-f461-a88503046c40.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ResponseState enumeration" Url="html/3ee2c940-9319-3d8c-98a0-d0804dda1281.htm" />
+  <HelpKINode Title="RowPath property" Url="html/1f612fa3-4967-e836-a23a-de90ae47de8f.htm" />
+  <HelpKINode Title="Run method" Url="html/eb4b78e9-f8da-1fc5-d80f-625e4b3cf0df.htm" />
+  <HelpKINode Title="RunWithBrowser method" Url="html/c5224eb8-60c4-2def-369a-cbfab0d14ac4.htm" />
+  <HelpKINode Title="Search field" Url="html/e122d7b9-9e85-a51f-09a9-d19aba4e4707.htm" />
+  <HelpKINode Title="SendResponse method" Url="html/96856b9f-d1fc-9938-9f0c-14d5aaf8332f.htm" />
+  <HelpKINode Title="Span enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="Strong enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="submit enumeration member" Url="html/9015b1d4-4572-773f-5e10-982f11ac7d85.htm" />
+  <HelpKINode Title="TagType enumeration" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="text enumeration member" Url="html/9015b1d4-4572-773f-5e10-982f11ac7d85.htm" />
+  <HelpKINode Title="Title enumeration member" Url="html/13b65664-9418-962a-a104-fc82a4b0da97.htm" />
+  <HelpKINode Title="ToString method" Url="html/444fe532-a8b8-8073-9b2e-1d7eb7683a59.htm" />
+  <HelpKINode Title="Type field" Url="html/86c522e7-1924-5758-6c47-1a0c85429a81.htm" />
+  <HelpKINode Title="Value field" Url="html/8b90fb0d-9915-165a-8677-3ab0be250bcb.htm" />
+  <HelpKINode Title="Value property" Url="html/1a73bbd5-3624-ed4d-0f36-fb2bf7658b06.htm" />
+  <HelpKINode Title="Verb property" Url="html/16394ee1-7744-2b8e-80a7-2277ee6bea0b.htm" />
+  <HelpKINode Title="With method" Url="html/91e09385-1aa4-5562-afe1-dbd427638d4f.htm" />
+  <HelpKINode Title="Write method" Url="html/2c73441b-8e22-408a-05e7-9eb428c7e76a.htm" />
+  <HelpKINode Title="WriteLine method" Url="html/4ca3c801-db7a-2650-ac92-c5675edd1c2a.htm" />
+</HelpKI>

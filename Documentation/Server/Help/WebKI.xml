@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="CurrentSocket property" Url="html/59f1d7c1-3a0f-145c-4285-15402c5ae3c0.htm" />
+  <HelpKINode Title="IISTA.Server namespace" Url="html/759b610f-9677-c42e-03e7-73ba25b920b3.htm" />
+  <HelpKINode Title="IISTA.Server.ServerCustom class" Url="html/e0a7829d-e29e-49da-8948-910cbe4f58f3.htm" />
+  <HelpKINode Title="Run method" Url="html/27f4fc9c-3d50-6752-99ef-cba5e8ce67ae.htm" />
+  <HelpKINode Title="RunWithBrowser method" Url="html/d1278746-6fea-07b4-5b3e-a30018fa3663.htm" />
+  <HelpKINode Title="ServerCustom class">
+    <HelpKINode Title="ServerCustom Class" Url="html/e0a7829d-e29e-49da-8948-910cbe4f58f3.htm" />
+    <HelpKINode Title="about ServerCustom class" Url="html/e0a7829d-e29e-49da-8948-910cbe4f58f3.htm" />
+    <HelpKINode Title="constructor" Url="html/b2069eb7-10a8-9753-0a13-d732e22e8155.htm" />
+    <HelpKINode Title="fields" Url="html/c5c57621-5709-d9f1-d02b-e40cf40d8127.htm" />
+    <HelpKINode Title="methods" Url="html/dc2dac32-4078-e615-d807-8b053bc33231.htm" />
+    <HelpKINode Title="properties" Url="html/4efb5d23-f2e1-9fea-8e72-90909fc37155.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ServerCustom.CurrentSocket property" Url="html/59f1d7c1-3a0f-145c-4285-15402c5ae3c0.htm" />
+  <HelpKINode Title="ServerCustom.Run method" Url="html/27f4fc9c-3d50-6752-99ef-cba5e8ce67ae.htm" />
+  <HelpKINode Title="ServerCustom.RunWithBrowser method" Url="html/d1278746-6fea-07b4-5b3e-a30018fa3663.htm" />
+  <HelpKINode Title="ServerCustom.ServerCustom constructor" Url="html/b2069eb7-10a8-9753-0a13-d732e22e8155.htm" />
+  <HelpKINode Title="ServerCustom._ipAddress field" Url="html/7c62e7c7-ceb6-5482-7f22-e8a231659a86.htm" />
+  <HelpKINode Title="ServerCustom._logger field" Url="html/5392638f-911b-0c82-bb8e-6ece6785cef1.htm" />
+  <HelpKINode Title="ServerCustom._port field" Url="html/cf8bf146-5ede-d35c-1313-275cf6fab554.htm" />
+  <HelpKINode Title="ServerCustom._socket field" Url="html/cfb074e4-71a8-04c9-d162-4de30564b99e.htm" />
+  <HelpKINode Title="_ipAddress field" Url="html/7c62e7c7-ceb6-5482-7f22-e8a231659a86.htm" />
+  <HelpKINode Title="_logger field" Url="html/5392638f-911b-0c82-bb8e-6ece6785cef1.htm" />
+  <HelpKINode Title="_port field" Url="html/cf8bf146-5ede-d35c-1313-275cf6fab554.htm" />
+  <HelpKINode Title="_socket field" Url="html/cfb074e4-71a8-04c9-d162-4de30564b99e.htm" />
+</HelpKI>

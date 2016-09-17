@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="89a304bf-b02b-4fee-9db9-64ba704b8cd7" Title="IISTA.RazorViewsCustom" Url="html/ed6912f5-cf77-1003-853c-f270afab6e2f.htm">
+    <HelpTOCNode Id="9c73af8f-c498-45c4-9074-29c3632685ee" Title="AboutPageView Class" Url="html/b06c5a9e-a083-4a96-c9d7-434d8b1cd16a.htm">
+      <HelpTOCNode Title="AboutPageView Constructor " Url="html/2f7dd40f-f06e-8c00-e418-5e7b9eb7d998.htm" />
+      <HelpTOCNode Id="7d1f9d6d-9bec-418d-996f-d88be32c3a89" Title="AboutPageView Methods" Url="html/1b0fad87-0e52-ece6-f40e-f5d31a594c0f.htm">
+        <HelpTOCNode Title="Render Method " Url="html/55f15f96-8637-2a3d-3f6f-b19d9cacb81a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="038f0fa7-ad23-4cac-9948-75f9d2a85661" Title="BasePageView Class" Url="html/272c5e2d-82d1-0db3-f8f8-a23c973f47dd.htm">
+      <HelpTOCNode Title="BasePageView Constructor " Url="html/79cbbc06-df4b-0303-f0af-445630d3954f.htm" />
+      <HelpTOCNode Id="00de6047-bcdd-4ad7-b9ce-68229e4afee2" Title="BasePageView Fields" Url="html/4b33a0c2-eaa2-c415-ac43-87d8f8240246.htm">
+        <HelpTOCNode Title="_httpRequestCustom Field" Url="html/7d34dcda-b9a4-a49c-7726-299ebc036e6e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8755f906-d107-4139-a42c-e8cdf11a404d" Title="BasePageView Methods" Url="html/88b177aa-28fd-df45-a5e5-bd59d35f5c1f.htm">
+        <HelpTOCNode Title="Render Method " Url="html/318f2937-f082-618c-b531-cf528ecadcc3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1a3923db-b298-4924-826f-e93a61040d4f" Title="HomePageView Class" Url="html/29e73d2e-8b63-06c3-83a6-84276ab640ab.htm">
+      <HelpTOCNode Title="HomePageView Constructor " Url="html/a7b17baf-458d-ca03-d1e3-e3902e02b12f.htm" />
+      <HelpTOCNode Id="256b5f02-c6ae-452d-b4f2-c06550f0ddde" Title="HomePageView Methods" Url="html/141e19e0-b10b-a060-c7d8-72908a0770f6.htm">
+        <HelpTOCNode Title="Render Method " Url="html/1ab34b5b-1e2a-ee88-d26b-f0b2a3bdc16b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="136d0308-3361-44b6-b031-90b30159e385" Title="PageNotFoundPageView Class" Url="html/978d834d-70d4-607e-9c39-34fbbe9a5215.htm">
+      <HelpTOCNode Title="PageNotFoundPageView Constructor " Url="html/71dd30ee-f9f8-9f4c-6e3f-8d414b3375f0.htm" />
+      <HelpTOCNode Id="ab320366-c7b6-4b78-9256-03b0606f1f61" Title="PageNotFoundPageView Methods" Url="html/f3fb7e64-da81-2771-d79e-3a687bcdc76e.htm">
+        <HelpTOCNode Title="Render Method " Url="html/9f2f1b87-1e14-f990-3676-fc4d8776f321.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f477fcbc-d819-4712-b90c-b60096072947" Title="SearchPageView Class" Url="html/281a71eb-8037-1e51-881d-07a44b4f9be6.htm">
+      <HelpTOCNode Title="SearchPageView Constructor " Url="html/f33b0d22-4436-8ddc-a23d-95971305d402.htm" />
+      <HelpTOCNode Id="d4df2992-b093-4472-83bc-41d16a8f03e5" Title="SearchPageView Methods" Url="html/1526ea52-ffab-f067-cb52-c5a555ba52f7.htm">
+        <HelpTOCNode Title="Render Method " Url="html/c5853442-63cc-771d-9e84-64f51ab168c2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

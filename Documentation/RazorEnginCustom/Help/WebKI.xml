@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method" Url="html/a8e8b3b6-65bc-1bfe-fc85-e02a04ebf9ee.htm" />
+  <HelpKINode Title="AddAttribute method" Url="html/797b6d52-fd47-5c7c-4fc9-afc84176314c.htm" />
+  <HelpKINode Title="Attributes property" Url="html/fbb1f62e-d422-39df-f2bf-708ec3b28460.htm" />
+  <HelpKINode Title="HtmlAttributes class">
+    <HelpKINode Title="HtmlAttributes Class" Url="html/28363ec5-b180-ebd5-e37c-038b266d5cbf.htm" />
+    <HelpKINode Title="about HtmlAttributes class" Url="html/28363ec5-b180-ebd5-e37c-038b266d5cbf.htm" />
+    <HelpKINode Title="constructor" Url="html/b248f69e-dc3a-2310-603a-f67f4ccf9418.htm" />
+    <HelpKINode Title="methods" Url="html/09125b92-175c-f2aa-b979-a95e2b101772.htm" />
+    <HelpKINode Title="properties" Url="html/4f0ce331-0d3e-0df8-99fd-0bb935f5ac5c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HtmlAttributes.HtmlAttributes constructor" Url="html/b248f69e-dc3a-2310-603a-f67f4ccf9418.htm" />
+  <HelpKINode Title="HtmlAttributes.Key property" Url="html/079de3a9-f9f5-1dd8-f5b0-a1037354fb73.htm" />
+  <HelpKINode Title="HtmlAttributes.ToString method" Url="html/e12dca72-cc1e-39e8-34c0-7f8fde8f0454.htm" />
+  <HelpKINode Title="HtmlAttributes.Value property" Url="html/7082d216-614d-bda8-deb2-87ffd769a76d.htm" />
+  <HelpKINode Title="HtmlElements property" Url="html/e5280769-e6c1-f117-975d-4bc1bbd59c6f.htm" />
+  <HelpKINode Title="HtmlTag class">
+    <HelpKINode Title="HtmlTag Class" Url="html/9284e856-3032-2273-7f37-a91d87340cee.htm" />
+    <HelpKINode Title="about HtmlTag class" Url="html/9284e856-3032-2273-7f37-a91d87340cee.htm" />
+    <HelpKINode Title="constructor" Url="html/3cc6d84a-1715-d7a4-ef03-fa7e540b1e6b.htm" />
+    <HelpKINode Title="fields" Url="html/57221842-4493-eaed-3a76-e6c9d374b51c.htm" />
+    <HelpKINode Title="methods" Url="html/4a4300b8-dcba-ffd6-9755-e1b4fb1e8441.htm" />
+    <HelpKINode Title="properties" Url="html/dfac087d-c76f-50d0-6d1d-d42d96934fdf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HtmlTag.AddAttribute method" Url="html/797b6d52-fd47-5c7c-4fc9-afc84176314c.htm" />
+  <HelpKINode Title="HtmlTag.Attributes property" Url="html/fbb1f62e-d422-39df-f2bf-708ec3b28460.htm" />
+  <HelpKINode Title="HtmlTag.HtmlTag constructor" Url="html/3cc6d84a-1715-d7a4-ef03-fa7e540b1e6b.htm" />
+  <HelpKINode Title="HtmlTag.Render method" Url="html/83b58333-28e2-cb9e-7561-b297e464574f.htm" />
+  <HelpKINode Title="HtmlTag.tagTemplate field" Url="html/a2abc2df-c7e2-7539-3689-0937ea003c1f.htm" />
+  <HelpKINode Title="HtmlTag.tagTemplateSingle field" Url="html/c1825424-9994-637d-350e-19fc1bc2d990.htm" />
+  <HelpKINode Title="HtmlTag.tagType field" Url="html/0f5931bc-2bd7-b752-ef4a-aa17879e4f8c.htm" />
+  <HelpKINode Title="HtmlTag.text field" Url="html/6e8345cf-67b4-ca68-3a2f-61472321754f.htm" />
+  <HelpKINode Title="HtmlTag.ToString method" Url="html/394d0d36-0da8-fe12-2a8b-3894ffd70f65.htm" />
+  <HelpKINode Title="HtmlTag.With method" Url="html/f671d2f6-d96e-b60c-45a0-3e4c5f5ddd8a.htm" />
+  <HelpKINode Title="IISTA.RazorEnginCustom namespace" Url="html/a0372c56-c218-6890-a44b-1e026edec303.htm" />
+  <HelpKINode Title="IISTA.RazorEnginCustom.HtmlElements namespace" Url="html/0d7e2679-2989-ae24-1a63-f150dfe19dd9.htm" />
+  <HelpKINode Title="IISTA.RazorEnginCustom.HtmlElements.HtmlAttributes class" Url="html/28363ec5-b180-ebd5-e37c-038b266d5cbf.htm" />
+  <HelpKINode Title="IISTA.RazorEnginCustom.HtmlElements.HtmlTag class" Url="html/9284e856-3032-2273-7f37-a91d87340cee.htm" />
+  <HelpKINode Title="IISTA.RazorEnginCustom.RazorPageConstructor class" Url="html/ad47a8ea-9de1-2bfd-7bc0-c6c6aca4e525.htm" />
+  <HelpKINode Title="Key property" Url="html/079de3a9-f9f5-1dd8-f5b0-a1037354fb73.htm" />
+  <HelpKINode Title="RazorPageConstructor class">
+    <HelpKINode Title="RazorPageConstructor Class" Url="html/ad47a8ea-9de1-2bfd-7bc0-c6c6aca4e525.htm" />
+    <HelpKINode Title="about RazorPageConstructor class" Url="html/ad47a8ea-9de1-2bfd-7bc0-c6c6aca4e525.htm" />
+    <HelpKINode Title="constructor" Url="html/dc9bd676-c539-4b3d-6fa0-d2cfd2662623.htm" />
+    <HelpKINode Title="methods" Url="html/4e50a860-ad40-df28-8e2b-ec2173b61ada.htm" />
+    <HelpKINode Title="properties" Url="html/b5d45c04-531d-51b5-0029-2e378315cefb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RazorPageConstructor.Add method" Url="html/a8e8b3b6-65bc-1bfe-fc85-e02a04ebf9ee.htm" />
+  <HelpKINode Title="RazorPageConstructor.HtmlElements property" Url="html/e5280769-e6c1-f117-975d-4bc1bbd59c6f.htm" />
+  <HelpKINode Title="RazorPageConstructor.RazorPageConstructor constructor" Url="html/dc9bd676-c539-4b3d-6fa0-d2cfd2662623.htm" />
+  <HelpKINode Title="RazorPageConstructor.Render method" Url="html/9fb6f9ae-b690-f110-101e-ee9126afa3e4.htm" />
+  <HelpKINode Title="Render method">
+    <HelpKINode Title="HtmlTag.Render Method " Url="html/83b58333-28e2-cb9e-7561-b297e464574f.htm" />
+    <HelpKINode Title="RazorPageConstructor.Render Method " Url="html/9fb6f9ae-b690-f110-101e-ee9126afa3e4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tagTemplate field" Url="html/a2abc2df-c7e2-7539-3689-0937ea003c1f.htm" />
+  <HelpKINode Title="tagTemplateSingle field" Url="html/c1825424-9994-637d-350e-19fc1bc2d990.htm" />
+  <HelpKINode Title="tagType field" Url="html/0f5931bc-2bd7-b752-ef4a-aa17879e4f8c.htm" />
+  <HelpKINode Title="text field" Url="html/6e8345cf-67b4-ca68-3a2f-61472321754f.htm" />
+  <HelpKINode Title="ToString method">
+    <HelpKINode Title="HtmlAttributes.ToString Method " Url="html/e12dca72-cc1e-39e8-34c0-7f8fde8f0454.htm" />
+    <HelpKINode Title="HtmlTag.ToString Method " Url="html/394d0d36-0da8-fe12-2a8b-3894ffd70f65.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Value property" Url="html/7082d216-614d-bda8-deb2-87ffd769a76d.htm" />
+  <HelpKINode Title="With method" Url="html/f671d2f6-d96e-b60c-45a0-3e4c5f5ddd8a.htm" />
+</HelpKI>

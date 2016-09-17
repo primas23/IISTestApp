@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AboutPageView class">
+    <HelpKINode Title="AboutPageView Class" Url="html/b06c5a9e-a083-4a96-c9d7-434d8b1cd16a.htm" />
+    <HelpKINode Title="about AboutPageView class" Url="html/b06c5a9e-a083-4a96-c9d7-434d8b1cd16a.htm" />
+    <HelpKINode Title="constructor" Url="html/2f7dd40f-f06e-8c00-e418-5e7b9eb7d998.htm" />
+    <HelpKINode Title="methods" Url="html/1b0fad87-0e52-ece6-f40e-f5d31a594c0f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AboutPageView.AboutPageView constructor" Url="html/2f7dd40f-f06e-8c00-e418-5e7b9eb7d998.htm" />
+  <HelpKINode Title="AboutPageView.Render method" Url="html/55f15f96-8637-2a3d-3f6f-b19d9cacb81a.htm" />
+  <HelpKINode Title="BasePageView class">
+    <HelpKINode Title="BasePageView Class" Url="html/272c5e2d-82d1-0db3-f8f8-a23c973f47dd.htm" />
+    <HelpKINode Title="about BasePageView class" Url="html/272c5e2d-82d1-0db3-f8f8-a23c973f47dd.htm" />
+    <HelpKINode Title="constructor" Url="html/79cbbc06-df4b-0303-f0af-445630d3954f.htm" />
+    <HelpKINode Title="fields" Url="html/4b33a0c2-eaa2-c415-ac43-87d8f8240246.htm" />
+    <HelpKINode Title="methods" Url="html/88b177aa-28fd-df45-a5e5-bd59d35f5c1f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BasePageView.BasePageView constructor" Url="html/79cbbc06-df4b-0303-f0af-445630d3954f.htm" />
+  <HelpKINode Title="BasePageView.Render method" Url="html/318f2937-f082-618c-b531-cf528ecadcc3.htm" />
+  <HelpKINode Title="BasePageView._httpRequestCustom field" Url="html/7d34dcda-b9a4-a49c-7726-299ebc036e6e.htm" />
+  <HelpKINode Title="HomePageView class">
+    <HelpKINode Title="HomePageView Class" Url="html/29e73d2e-8b63-06c3-83a6-84276ab640ab.htm" />
+    <HelpKINode Title="about HomePageView class" Url="html/29e73d2e-8b63-06c3-83a6-84276ab640ab.htm" />
+    <HelpKINode Title="constructor" Url="html/a7b17baf-458d-ca03-d1e3-e3902e02b12f.htm" />
+    <HelpKINode Title="methods" Url="html/141e19e0-b10b-a060-c7d8-72908a0770f6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HomePageView.HomePageView constructor" Url="html/a7b17baf-458d-ca03-d1e3-e3902e02b12f.htm" />
+  <HelpKINode Title="HomePageView.Render method" Url="html/1ab34b5b-1e2a-ee88-d26b-f0b2a3bdc16b.htm" />
+  <HelpKINode Title="IISTA.RazorViewsCustom namespace" Url="html/ed6912f5-cf77-1003-853c-f270afab6e2f.htm" />
+  <HelpKINode Title="IISTA.RazorViewsCustom.AboutPageView class" Url="html/b06c5a9e-a083-4a96-c9d7-434d8b1cd16a.htm" />
+  <HelpKINode Title="IISTA.RazorViewsCustom.BasePageView class" Url="html/272c5e2d-82d1-0db3-f8f8-a23c973f47dd.htm" />
+  <HelpKINode Title="IISTA.RazorViewsCustom.HomePageView class" Url="html/29e73d2e-8b63-06c3-83a6-84276ab640ab.htm" />
+  <HelpKINode Title="IISTA.RazorViewsCustom.PageNotFoundPageView class" Url="html/978d834d-70d4-607e-9c39-34fbbe9a5215.htm" />
+  <HelpKINode Title="IISTA.RazorViewsCustom.SearchPageView class" Url="html/281a71eb-8037-1e51-881d-07a44b4f9be6.htm" />
+  <HelpKINode Title="PageNotFoundPageView class">
+    <HelpKINode Title="PageNotFoundPageView Class" Url="html/978d834d-70d4-607e-9c39-34fbbe9a5215.htm" />
+    <HelpKINode Title="about PageNotFoundPageView class" Url="html/978d834d-70d4-607e-9c39-34fbbe9a5215.htm" />
+    <HelpKINode Title="constructor" Url="html/71dd30ee-f9f8-9f4c-6e3f-8d414b3375f0.htm" />
+    <HelpKINode Title="methods" Url="html/f3fb7e64-da81-2771-d79e-3a687bcdc76e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PageNotFoundPageView.PageNotFoundPageView constructor" Url="html/71dd30ee-f9f8-9f4c-6e3f-8d414b3375f0.htm" />
+  <HelpKINode Title="PageNotFoundPageView.Render method" Url="html/9f2f1b87-1e14-f990-3676-fc4d8776f321.htm" />
+  <HelpKINode Title="Render method">
+    <HelpKINode Title="AboutPageView.Render Method " Url="html/55f15f96-8637-2a3d-3f6f-b19d9cacb81a.htm" />
+    <HelpKINode Title="BasePageView.Render Method " Url="html/318f2937-f082-618c-b531-cf528ecadcc3.htm" />
+    <HelpKINode Title="HomePageView.Render Method " Url="html/1ab34b5b-1e2a-ee88-d26b-f0b2a3bdc16b.htm" />
+    <HelpKINode Title="PageNotFoundPageView.Render Method " Url="html/9f2f1b87-1e14-f990-3676-fc4d8776f321.htm" />
+    <HelpKINode Title="SearchPageView.Render Method " Url="html/c5853442-63cc-771d-9e84-64f51ab168c2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchPageView class">
+    <HelpKINode Title="SearchPageView Class" Url="html/281a71eb-8037-1e51-881d-07a44b4f9be6.htm" />
+    <HelpKINode Title="about SearchPageView class" Url="html/281a71eb-8037-1e51-881d-07a44b4f9be6.htm" />
+    <HelpKINode Title="constructor" Url="html/f33b0d22-4436-8ddc-a23d-95971305d402.htm" />
+    <HelpKINode Title="methods" Url="html/1526ea52-ffab-f067-cb52-c5a555ba52f7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchPageView.Render method" Url="html/c5853442-63cc-771d-9e84-64f51ab168c2.htm" />
+  <HelpKINode Title="SearchPageView.SearchPageView constructor" Url="html/f33b0d22-4436-8ddc-a23d-95971305d402.htm" />
+  <HelpKINode Title="_httpRequestCustom field" Url="html/7d34dcda-b9a4-a49c-7726-299ebc036e6e.htm" />
+</HelpKI>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="3fd6a6a4-d35d-4a7d-90a9-6f831465e692" Title="IISTA.CustomRouting" Url="html/472f597b-de1c-a35b-126d-7047221e1451.htm">
+    <HelpTOCNode Id="ea908280-8fca-4367-aaff-64211e36bff7" Title="HttpRoute Class" Url="html/9f4702a8-ae56-1df5-fd39-2edcbb6b05de.htm">
+      <HelpTOCNode Title="HttpRoute Constructor " Url="html/8e9bf17c-b337-96fd-0f5e-bea9a0e994b8.htm" />
+      <HelpTOCNode Id="aeaf1824-081d-4a97-9687-e6add36c10c7" Title="HttpRoute Fields" Url="html/d04622f9-9fc6-dd77-cb9f-e80e10d3563d.htm">
+        <HelpTOCNode Title="_rowPath Field" Url="html/294fd94c-3427-a16e-c462-71aa685179c8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="defd13e8-3450-49de-bd0c-fb071982afc5" Title="HttpRoute Methods" Url="html/27658799-0742-8c9b-70de-230a8c91bba0.htm">
+        <HelpTOCNode Title="GetActionControler Method " Url="html/15d2c1d8-5580-8f9f-e5c4-d4f1934ac66e.htm" />
+        <HelpTOCNode Title="GetActionMethod Method " Url="html/eda6800e-ef7b-8f81-a7ce-1dd3b6c4b68f.htm" />
+        <HelpTOCNode Title="GetFieldsOfQueryString Method " Url="html/4dea5bb7-9380-680e-dc1c-4645e6477f8e.htm" />
+        <HelpTOCNode Title="GetFromPathArray Method " Url="html/4ecbc9a9-fead-4ef2-9032-23aaa481d99a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

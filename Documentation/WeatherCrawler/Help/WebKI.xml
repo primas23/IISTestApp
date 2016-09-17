@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="IISTA.WeatherCrawler namespace" Url="html/7bd63961-04f7-477b-350a-7c2e9a5736d4.htm" />
+  <HelpKINode Title="IISTA.WeatherCrawler.OpenWeatherMap class" Url="html/41f5d9a8-c73c-b4cf-ebe9-15ba8952c12e.htm" />
+  <HelpKINode Title="OpenWeatherMap class">
+    <HelpKINode Title="OpenWeatherMap Class" Url="html/41f5d9a8-c73c-b4cf-ebe9-15ba8952c12e.htm" />
+    <HelpKINode Title="about OpenWeatherMap class" Url="html/41f5d9a8-c73c-b4cf-ebe9-15ba8952c12e.htm" />
+    <HelpKINode Title="constructor" Url="html/2d992ced-d583-e7fc-7658-e38fece389de.htm" />
+    <HelpKINode Title="fields" Url="html/e3cf3c10-568c-cc39-cbb9-ae09cc810226.htm" />
+    <HelpKINode Title="properties" Url="html/76b3b785-6acb-bafe-a0e1-6c97aa33bbb4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OpenWeatherMap.OpenWeatherMap constructor" Url="html/2d992ced-d583-e7fc-7658-e38fece389de.htm" />
+  <HelpKINode Title="OpenWeatherMap.Temperature property" Url="html/958976ab-9501-63e7-4dfa-a8633803627c.htm" />
+  <HelpKINode Title="OpenWeatherMap.WeatherInformationCombined property" Url="html/a3683385-3bf4-0e26-7c90-6069a462f2c8.htm" />
+  <HelpKINode Title="OpenWeatherMap._informationCombined field" Url="html/c6227cd6-2bea-c256-2eba-7689635ec452.htm" />
+  <HelpKINode Title="Temperature property" Url="html/958976ab-9501-63e7-4dfa-a8633803627c.htm" />
+  <HelpKINode Title="WeatherInformationCombined property" Url="html/a3683385-3bf4-0e26-7c90-6069a462f2c8.htm" />
+  <HelpKINode Title="_informationCombined field" Url="html/c6227cd6-2bea-c256-2eba-7689635ec452.htm" />
+</HelpKI>

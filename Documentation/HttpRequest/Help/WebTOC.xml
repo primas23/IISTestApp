@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="2e86e826-f014-4e5c-b481-d73bf88bf86a" Title="IISTA.HttpRequest" Url="html/40ec2da6-83ee-1ad0-61a1-50c5adf3263b.htm">
+    <HelpTOCNode Id="84ba7d95-263d-4a79-9368-606e1f25b65d" Title="HttpRequestCustom Class" Url="html/266623d7-647f-43b3-2a03-9d19a5c7bb7c.htm">
+      <HelpTOCNode Title="HttpRequestCustom Constructor " Url="html/b41ae5d1-6dbb-fe65-0e09-7783debb9538.htm" />
+      <HelpTOCNode Id="08e5026d-2021-4779-851a-7dd6ebc11984" Title="HttpRequestCustom Properties" Url="html/facbef4c-acb5-5bf4-b929-84f20db0c431.htm">
+        <HelpTOCNode Title="Body Property " Url="html/15fb30c7-e5a3-67a9-9ba8-1e9f745db84c.htm" />
+        <HelpTOCNode Title="Headers Property " Url="html/b3d8cd1b-3155-86d1-71b2-df6a9af93569.htm" />
+        <HelpTOCNode Title="Path Property " Url="html/3db867ca-a525-970c-10ec-8df4da0d03bb.htm" />
+        <HelpTOCNode Title="QueryString Property " Url="html/f1521804-3248-1854-8711-1bfb9e24deea.htm" />
+        <HelpTOCNode Title="Verb Property " Url="html/f2d8203f-893e-8665-0592-a15254333d16.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c707e6e3-946c-459a-9054-48f967e5daf1" Title="HttpRequestHandler Class" Url="html/551df43b-7601-6f78-a20c-63d3b861218e.htm">
+      <HelpTOCNode Title="HttpRequestHandler Constructor " Url="html/e79128fe-ea02-4976-a462-221e1eedfe22.htm" />
+      <HelpTOCNode Id="3e91b16e-840d-48c6-9a32-4bb4e9b5c64d" Title="HttpRequestHandler Fields" Url="html/a37b9637-0c33-2f93-0f0d-ba7074efc2ce.htm">
+        <HelpTOCNode Title="_httpRequestCustom Field" Url="html/1fdff0d5-de16-e55e-5af0-1853b5142a47.htm" />
+        <HelpTOCNode Title="socket Field" Url="html/962fc3da-1d33-6c13-df4f-968404e3f397.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="185d9cd8-822e-4a08-aca9-973ab94b5392" Title="HttpRequestHandler Methods" Url="html/0b058b00-6437-63f6-2ea4-048306398401.htm">
+        <HelpTOCNode Title="FindHeadersEnd Method " Url="html/7cea6ab6-81c3-d2eb-9c78-534126661b37.htm" />
+        <HelpTOCNode Title="GetHttpRequest Method " Url="html/2e9a76fa-b060-89d0-00fe-57c1d759d653.htm" />
+        <HelpTOCNode Title="ParseHead Method " Url="html/339fb8e1-5423-b051-1226-133bddea4d44.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f4536535-61c7-4d15-97cc-f88b3ee6f4d0" Title="HttpRequestHandler Properties" Url="html/9bca4ec3-e919-e6d5-26ee-4a9443c223ae.htm">
+        <HelpTOCNode Title="HttpRequest Property " Url="html/c8bb5443-432c-2bda-ff32-c9002f91cba4.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3be8c01d-9115-4c1e-905d-a58d73f575a2" Title="Path Class" Url="html/471ba46f-b931-416a-f949-614080a6fea0.htm">
+      <HelpTOCNode Title="Path Constructor " Url="html/9019c799-2771-b769-7dc1-17363d1088b5.htm" />
+      <HelpTOCNode Id="8654bcbd-87b8-4f89-b75e-abfebe5c177a" Title="Path Fields" Url="html/68b7b75e-c2ee-6782-6320-682cbad10157.htm">
+        <HelpTOCNode Title="_parameters Field" Url="html/b7f19fa8-8948-c8bd-f6c0-ad1e37c08af7.htm" />
+        <HelpTOCNode Title="_rowPath Field" Url="html/0e11023f-46d8-8830-6f31-1fa4872f7246.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3af2983b-5f0c-4b8c-834d-b0f5050ae4e8" Title="Path Properties" Url="html/7eb3c827-6b4b-8116-fb91-a518bd197142.htm">
+        <HelpTOCNode Title="ActionController Property " Url="html/6de48c46-1939-ee0b-64e9-f02c2fa90ddb.htm" />
+        <HelpTOCNode Title="ActionMethod Property " Url="html/b920ee87-d073-2888-9732-34521caa0335.htm" />
+        <HelpTOCNode Title="HttpVersion Property " Url="html/a078fe66-52f3-02b3-5e2e-918d973b70e4.htm" />
+        <HelpTOCNode Title="Parameters Property " Url="html/f39357d3-dba1-3bb5-d017-625e4524d16a.htm" />
+        <HelpTOCNode Title="QueryString Property " Url="html/5110486a-509c-f11a-f059-437e1316107b.htm" />
+        <HelpTOCNode Title="RowPath Property " Url="html/2cea9a29-3caa-8d85-436a-4c7667430a78.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="28582678-6b2e-4900-8bfa-09527b587924" Title="WebVerb Class" Url="html/cbc5d110-e1c9-432d-f0d4-abc34756e19b.htm">
+      <HelpTOCNode Title="WebVerb Constructor " Url="html/5999fec3-a1cb-1f23-57a6-30c2aad4061f.htm" />
+      <HelpTOCNode Id="339b1ee8-4118-473a-bb85-e0211dc3fe2d" Title="WebVerb Methods" Url="html/d09eb99e-36bf-3d14-b9e1-ded14d65c3b7.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/e9685c51-9883-1444-3130-19146fbf6501.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="80daa7da-e462-4a24-838e-453dbc2f99ff" Title="WebVerb Properties" Url="html/d598370c-51c4-a047-ebe1-234d5b2e5361.htm">
+        <HelpTOCNode Title="IsGet Property " Url="html/8f4e2df9-88e3-b033-d99f-268b4e74692c.htm" />
+        <HelpTOCNode Title="IsPost Property " Url="html/6f0f6d28-bc25-e435-3cc5-b2a51a671e1f.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/76252392-a3f4-0814-60bb-bd3e87c287da.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

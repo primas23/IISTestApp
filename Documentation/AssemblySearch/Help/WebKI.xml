@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ClassesInfo property" Url="html/c9efc525-8e75-80d1-2e6a-666e14ddbaf6.htm" />
+  <HelpKINode Title="ClassInfoCaching class">
+    <HelpKINode Title="ClassInfoCaching Class" Url="html/1de7e560-3f16-9a02-6e32-b57cb72acd51.htm" />
+    <HelpKINode Title="about ClassInfoCaching class" Url="html/1de7e560-3f16-9a02-6e32-b57cb72acd51.htm" />
+    <HelpKINode Title="constructor" Url="html/b675a356-1b3d-59aa-9c32-1095d76a302f.htm" />
+    <HelpKINode Title="constructor" Url="html/82d1b034-294e-270e-a4b4-eccdb53e06b7.htm" />
+    <HelpKINode Title="fields" Url="html/b13daf95-163d-aa93-1b6a-2c259ecc8f19.htm" />
+    <HelpKINode Title="methods" Url="html/7e18b180-88db-1b7b-3095-85cf1f075588.htm" />
+    <HelpKINode Title="properties" Url="html/67234cb9-6665-b4fb-7523-9559980114e0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClassInfoCaching.ClassesInfo property" Url="html/c9efc525-8e75-80d1-2e6a-666e14ddbaf6.htm" />
+  <HelpKINode Title="ClassInfoCaching.ClassInfoCaching constructor">
+    <HelpKINode Title="ClassInfoCaching Constructor " Url="html/b675a356-1b3d-59aa-9c32-1095d76a302f.htm" />
+    <HelpKINode Title="ClassInfoCaching Constructor " Url="html/82d1b034-294e-270e-a4b4-eccdb53e06b7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClassInfoCaching.CutClassFullName method" Url="html/09f64437-6ca7-cd0d-7b37-1c8726e7cef5.htm" />
+  <HelpKINode Title="ClassInfoCaching.Instance property" Url="html/f1e789a7-9352-b9c8-371a-354ac3f0629f.htm" />
+  <HelpKINode Title="ClassInfoCaching.Nested class">
+    <HelpKINode Title="ClassInfoCaching.Nested Class" Url="html/5a904592-3713-14a1-0f96-31fd76eccd09.htm" />
+    <HelpKINode Title="about ClassInfoCaching.Nested class" Url="html/5a904592-3713-14a1-0f96-31fd76eccd09.htm" />
+    <HelpKINode Title="constructor" Url="html/bb545355-debd-d17d-649f-60c8815e05ec.htm" />
+    <HelpKINode Title="constructor" Url="html/04773d08-339e-10ec-c1d0-0cf1259227ba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClassInfoCaching.Nested.instance field" Url="html/cf72512a-aae0-e354-7cf3-dfaf8b587e8c.htm" />
+  <HelpKINode Title="ClassInfoCaching.Nested.Nested constructor">
+    <HelpKINode Title="ClassInfoCaching.Nested Constructor " Url="html/bb545355-debd-d17d-649f-60c8815e05ec.htm" />
+    <HelpKINode Title="ClassInfoCaching.Nested Constructor " Url="html/04773d08-339e-10ec-c1d0-0cf1259227ba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClassInfoCaching.PopulateClassesInfo method" Url="html/bf456859-5fc1-4ec7-1c2a-a1856d27b7b2.htm" />
+  <HelpKINode Title="ClassInfoCaching._classesInfo field" Url="html/6606c573-6d82-e07c-71aa-2f486348f08d.htm" />
+  <HelpKINode Title="ControllerResolver class">
+    <HelpKINode Title="ControllerResolver Class" Url="html/663e3402-854c-2d21-0619-075d4585f967.htm" />
+    <HelpKINode Title="about ControllerResolver class" Url="html/663e3402-854c-2d21-0619-075d4585f967.htm" />
+    <HelpKINode Title="constructor" Url="html/02840600-af32-fd89-bdb5-275968bf561d.htm" />
+    <HelpKINode Title="fields" Url="html/8822d01f-17f6-96d2-c970-3c59411b73be.htm" />
+    <HelpKINode Title="properties" Url="html/196bf1b4-dbfe-07f0-32fc-68f44389ef9b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ControllerResolver.ControllerResolver constructor" Url="html/02840600-af32-fd89-bdb5-275968bf561d.htm" />
+  <HelpKINode Title="ControllerResolver.GetInstanceOfController property" Url="html/7174305e-4cbb-5b76-094c-067218def662.htm" />
+  <HelpKINode Title="ControllerResolver._classesInfo field" Url="html/2e3bed57-3233-310b-924c-4cb1b31c3ca4.htm" />
+  <HelpKINode Title="ControllerResolver._curretnControllerName field" Url="html/2d1fba04-971a-6514-55c5-e73fdbb9509d.htm" />
+  <HelpKINode Title="ControllerResolver._httpRequest field" Url="html/8ce5175e-b41f-5622-0fe7-6d46f92b3796.htm" />
+  <HelpKINode Title="ControllerResolver._objectInstance field" Url="html/d515e6fe-4ec0-5e1a-79f6-995a4ca38949.htm" />
+  <HelpKINode Title="CutClassFullName method" Url="html/09f64437-6ca7-cd0d-7b37-1c8726e7cef5.htm" />
+  <HelpKINode Title="GetInstanceOfController property" Url="html/7174305e-4cbb-5b76-094c-067218def662.htm" />
+  <HelpKINode Title="IISTA.AssemblySearch namespace" Url="html/89486b14-a5a8-88e8-532e-9d55dc5edd46.htm" />
+  <HelpKINode Title="IISTA.AssemblySearch.ClassInfoCaching class" Url="html/1de7e560-3f16-9a02-6e32-b57cb72acd51.htm" />
+  <HelpKINode Title="IISTA.AssemblySearch.ClassInfoCaching.Nested class" Url="html/5a904592-3713-14a1-0f96-31fd76eccd09.htm" />
+  <HelpKINode Title="IISTA.AssemblySearch.ControllerResolver class" Url="html/663e3402-854c-2d21-0619-075d4585f967.htm" />
+  <HelpKINode Title="instance field" Url="html/cf72512a-aae0-e354-7cf3-dfaf8b587e8c.htm" />
+  <HelpKINode Title="Instance property" Url="html/f1e789a7-9352-b9c8-371a-354ac3f0629f.htm" />
+  <HelpKINode Title="Nested class">
+    <HelpKINode Title="fields" Url="html/c63ca635-a57b-90ba-71b6-82ddbe2acf02.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PopulateClassesInfo method" Url="html/bf456859-5fc1-4ec7-1c2a-a1856d27b7b2.htm" />
+  <HelpKINode Title="_classesInfo field">
+    <HelpKINode Title="ClassInfoCaching._classesInfo Field" Url="html/6606c573-6d82-e07c-71aa-2f486348f08d.htm" />
+    <HelpKINode Title="ControllerResolver._classesInfo Field" Url="html/2e3bed57-3233-310b-924c-4cb1b31c3ca4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="_curretnControllerName field" Url="html/2d1fba04-971a-6514-55c5-e73fdbb9509d.htm" />
+  <HelpKINode Title="_httpRequest field" Url="html/8ce5175e-b41f-5622-0fe7-6d46f92b3796.htm" />
+  <HelpKINode Title="_objectInstance field" Url="html/d515e6fe-4ec0-5e1a-79f6-995a4ca38949.htm" />
+</HelpKI>

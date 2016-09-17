@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="e979a5e8-7bf7-41cd-88db-35186cda0282" Title="IISTA.Loger" Url="html/403195f1-8fab-2fc3-9f11-5bacc77f494a.htm">
+    <HelpTOCNode Id="6cf68939-96bb-4770-afff-e264a404240b" Title="FileLogger Class" Url="html/3470a7b4-1b16-5d80-e545-420dfb15c6b1.htm">
+      <HelpTOCNode Id="5a42ae99-7d82-4d88-a70a-999d2f5c629a" Title="FileLogger Constructor " Url="html/1882f7d5-f5ed-6b24-3f88-7e5e25e7277a.htm">
+        <HelpTOCNode Title="FileLogger Constructor " Url="html/b6e2001b-8bb2-1975-d688-fe1e990c35f8.htm" />
+        <HelpTOCNode Title="FileLogger Constructor (String)" Url="html/213a62a9-8d00-9a4f-30b4-c921afa3cefc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0d2548ee-3703-4f06-b952-b15304080515" Title="FileLogger Fields" Url="html/7dbb6e54-058d-878e-419e-22e68122eb13.htm">
+        <HelpTOCNode Title="_path Field" Url="html/b627de8f-44ec-2c17-1b55-6a336a585cf4.htm" />
+        <HelpTOCNode Title="_roothDirectory Field" Url="html/6ced589d-fc9e-6e7a-e191-828c8d114b3a.htm" />
+        <HelpTOCNode Title="_textFileNameWithExtension Field" Url="html/c4edf72a-1ba8-cac9-4248-a7929a5966a9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="23bce0ab-1115-48cd-b242-6af3b699e13a" Title="FileLogger Methods" Url="html/f33ec6d4-332b-9532-fc81-5040086f53bc.htm">
+        <HelpTOCNode Title="Write Method " Url="html/a6e22efc-2dbd-bc46-7fa4-1330639933c6.htm" />
+        <HelpTOCNode Title="WriteLine Method " Url="html/7c2513a4-ae4d-95d8-1337-ccc9331f9d08.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f8fc94f1-618e-4b86-8a77-531df7843f70" Title="FileLogger Properties" Url="html/5b15466b-aa8c-2a7e-606e-06569b470663.htm">
+        <HelpTOCNode Title="Path Property " Url="html/e33957de-3e37-87e1-2e67-7b72dbe2d507.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="All property" Url="html/71d961b6-54fc-9808-9b7c-359c4da81c63.htm" />
+  <HelpKINode Title="Base property" Url="html/26cc298c-764c-b1de-d77e-690383f67e02.htm" />
+  <HelpKINode Title="Clouds class">
+    <HelpKINode Title="Clouds Class" Url="html/f88c95b9-1f3b-3be0-8819-05df38a253fe.htm" />
+    <HelpKINode Title="about Clouds class" Url="html/f88c95b9-1f3b-3be0-8819-05df38a253fe.htm" />
+    <HelpKINode Title="constructor" Url="html/3e255d5b-049c-b319-4600-dc587f486df6.htm" />
+    <HelpKINode Title="properties" Url="html/8fd2f65b-8073-6cce-06c8-5ec3e68c54b2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Clouds property" Url="html/511edc06-e931-f972-b77a-ceb02db7a671.htm" />
+  <HelpKINode Title="Clouds.All property" Url="html/71d961b6-54fc-9808-9b7c-359c4da81c63.htm" />
+  <HelpKINode Title="Clouds.Clouds constructor" Url="html/3e255d5b-049c-b319-4600-dc587f486df6.htm" />
+  <HelpKINode Title="Cod property" Url="html/15499ba9-7eb0-9dcb-c489-5e9717e0f58f.htm" />
+  <HelpKINode Title="Coord class">
+    <HelpKINode Title="Coord Class" Url="html/e5205b65-dfe9-dbd0-138b-dcb9c008229f.htm" />
+    <HelpKINode Title="about Coord class" Url="html/e5205b65-dfe9-dbd0-138b-dcb9c008229f.htm" />
+    <HelpKINode Title="constructor" Url="html/aaa68f6c-147f-a2ca-f3e4-505261f8b081.htm" />
+    <HelpKINode Title="properties" Url="html/d6866a91-d968-30be-0075-7a26d7d0a368.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Coord property" Url="html/178ffd01-5410-7f86-ff21-c5c569ce9c63.htm" />
+  <HelpKINode Title="Coord.Coord constructor" Url="html/aaa68f6c-147f-a2ca-f3e4-505261f8b081.htm" />
+  <HelpKINode Title="Coord.Lat property" Url="html/2b7574ff-d1f5-d1ea-cbd5-d1bc292bf572.htm" />
+  <HelpKINode Title="Coord.Lon property" Url="html/5fa7ea86-f90a-c354-81b9-f727890a2aff.htm" />
+  <HelpKINode Title="Country property" Url="html/acd6e09e-2b1f-8a64-9bbf-c707554930c5.htm" />
+  <HelpKINode Title="Deg property" Url="html/62ca7f0f-3d7b-e92b-8e87-ce612c3ecd37.htm" />
+  <HelpKINode Title="Description property" Url="html/3a2f61f8-07fa-6aeb-7651-1a2c76a6404e.htm" />
+  <HelpKINode Title="Dt property" Url="html/83206a6e-ac1b-8c6f-00a9-47993a92f697.htm" />
+  <HelpKINode Title="Humidity property" Url="html/587b19af-ee84-0d22-c31d-2f64e993379c.htm" />
+  <HelpKINode Title="Icon property" Url="html/470792c5-c6bd-64da-0731-f6e1a6339922.htm" />
+  <HelpKINode Title="Id property">
+    <HelpKINode Title="Sys.Id Property " Url="html/7ca4ed32-f631-58a7-466f-217437dba581.htm" />
+    <HelpKINode Title="Weather.Id Property " Url="html/9442c7f7-8be9-7aed-e950-7bb233ea65ca.htm" />
+    <HelpKINode Title="WeatherInformationCombined.Id Property " Url="html/ba0795b8-3569-7b1b-c680-c9d160dababb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IISTA.Models.Weather namespace" Url="html/b1433c24-6716-ef77-458e-549dcb11452b.htm" />
+  <HelpKINode Title="IISTA.Models.Weather.Clouds class" Url="html/f88c95b9-1f3b-3be0-8819-05df38a253fe.htm" />
+  <HelpKINode Title="IISTA.Models.Weather.Coord class" Url="html/e5205b65-dfe9-dbd0-138b-dcb9c008229f.htm" />
+  <HelpKINode Title="IISTA.Models.Weather.Main class" Url="html/6278d2f1-6586-4339-a9a3-649ca31e6c93.htm" />
+  <HelpKINode Title="IISTA.Models.Weather.Sys class" Url="html/e41d1d55-e060-ea44-f8f0-2a57a188a614.htm" />
+  <HelpKINode Title="IISTA.Models.Weather.Weather class" Url="html/0d978b7e-473f-657c-d399-102bd6191bed.htm" />
+  <HelpKINode Title="IISTA.Models.Weather.WeatherInformationCombined class" Url="html/4ce18f0f-ec8c-07b2-10cf-5164e9d7beff.htm" />
+  <HelpKINode Title="IISTA.Models.Weather.Wind class" Url="html/6e7d829e-7eba-331a-8cde-88902d037673.htm" />
+  <HelpKINode Title="Lat property" Url="html/2b7574ff-d1f5-d1ea-cbd5-d1bc292bf572.htm" />
+  <HelpKINode Title="Lon property" Url="html/5fa7ea86-f90a-c354-81b9-f727890a2aff.htm" />
+  <HelpKINode Title="Main class">
+    <HelpKINode Title="Main Class" Url="html/6278d2f1-6586-4339-a9a3-649ca31e6c93.htm" />
+    <HelpKINode Title="about Main class" Url="html/6278d2f1-6586-4339-a9a3-649ca31e6c93.htm" />
+    <HelpKINode Title="constructor" Url="html/c8035486-6b69-38b8-8bcd-e5513925db2c.htm" />
+    <HelpKINode Title="properties" Url="html/e5416c1f-a108-dcec-623c-31d5ac612cfd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Main property">
+    <HelpKINode Title="Weather.Main Property " Url="html/b4fd929a-94ae-5a5f-e2ec-7fa17d71f1e2.htm" />
+    <HelpKINode Title="WeatherInformationCombined.Main Property " Url="html/891124bd-bf42-7881-e916-5257c4ed866f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Main.Humidity property" Url="html/587b19af-ee84-0d22-c31d-2f64e993379c.htm" />
+  <HelpKINode Title="Main.Main constructor" Url="html/c8035486-6b69-38b8-8bcd-e5513925db2c.htm" />
+  <HelpKINode Title="Main.Pressure property" Url="html/74b7de8b-3ab2-4e91-5196-6c464b0f9b57.htm" />
+  <HelpKINode Title="Main.Temp property" Url="html/a33b849b-aa41-49be-3b4d-3a14330230cb.htm" />
+  <HelpKINode Title="Main.TempMax property" Url="html/f8c87c91-8019-5ed2-5641-0830d619e099.htm" />
+  <HelpKINode Title="Main.TempMin property" Url="html/8cf28f98-afb3-dda1-5fa7-a8cd562024d9.htm" />
+  <HelpKINode Title="Message property" Url="html/be73ead6-3c17-b0b7-9599-c95d5000b43a.htm" />
+  <HelpKINode Title="Name property" Url="html/aa24d752-ed4a-c505-e4f1-947435fb411c.htm" />
+  <HelpKINode Title="Pressure property" Url="html/74b7de8b-3ab2-4e91-5196-6c464b0f9b57.htm" />
+  <HelpKINode Title="Speed property" Url="html/0aa7fcd8-a949-5063-fe6a-93b34df77843.htm" />
+  <HelpKINode Title="Sunrise property" Url="html/47d44577-36ff-4550-a4c1-4533a9a643fe.htm" />
+  <HelpKINode Title="Sunset property" Url="html/6e8fadc4-bc3a-a1ef-5850-99ba07141d59.htm" />
+  <HelpKINode Title="Sys class">
+    <HelpKINode Title="Sys Class" Url="html/e41d1d55-e060-ea44-f8f0-2a57a188a614.htm" />
+    <HelpKINode Title="about Sys class" Url="html/e41d1d55-e060-ea44-f8f0-2a57a188a614.htm" />
+    <HelpKINode Title="constructor" Url="html/9e22badc-1f7c-cd29-8753-91a4f00801a5.htm" />
+    <HelpKINode Title="properties" Url="html/c4670f6f-8fc0-816a-5048-9df4b1c36858.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Sys property" Url="html/a803c8ae-d32a-a89f-0548-e187583c5e2b.htm" />
+  <HelpKINode Title="Sys.Country property" Url="html/acd6e09e-2b1f-8a64-9bbf-c707554930c5.htm" />
+  <HelpKINode Title="Sys.Id property" Url="html/7ca4ed32-f631-58a7-466f-217437dba581.htm" />
+  <HelpKINode Title="Sys.Message property" Url="html/be73ead6-3c17-b0b7-9599-c95d5000b43a.htm" />
+  <HelpKINode Title="Sys.Sunrise property" Url="html/47d44577-36ff-4550-a4c1-4533a9a643fe.htm" />
+  <HelpKINode Title="Sys.Sunset property" Url="html/6e8fadc4-bc3a-a1ef-5850-99ba07141d59.htm" />
+  <HelpKINode Title="Sys.Sys constructor" Url="html/9e22badc-1f7c-cd29-8753-91a4f00801a5.htm" />
+  <HelpKINode Title="Sys.Type property" Url="html/5ad87c92-d6d4-fd54-5223-26ed808a45e2.htm" />
+  <HelpKINode Title="Temp property" Url="html/a33b849b-aa41-49be-3b4d-3a14330230cb.htm" />
+  <HelpKINode Title="TempMax property" Url="html/f8c87c91-8019-5ed2-5641-0830d619e099.htm" />
+  <HelpKINode Title="TempMin property" Url="html/8cf28f98-afb3-dda1-5fa7-a8cd562024d9.htm" />
+  <HelpKINode Title="Type property" Url="html/5ad87c92-d6d4-fd54-5223-26ed808a45e2.htm" />
+  <HelpKINode Title="Weather class">
+    <HelpKINode Title="Weather Class" Url="html/0d978b7e-473f-657c-d399-102bd6191bed.htm" />
+    <HelpKINode Title="about Weather class" Url="html/0d978b7e-473f-657c-d399-102bd6191bed.htm" />
+    <HelpKINode Title="constructor" Url="html/86f2f61c-6bdd-540c-92cd-6cbe47b51b1b.htm" />
+    <HelpKINode Title="properties" Url="html/e411d796-55c2-afc6-d81e-aba18510cd61.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Weather property" Url="html/e32601b6-7ca0-17c7-f536-d23a317dbf29.htm" />
+  <HelpKINode Title="Weather.Description property" Url="html/3a2f61f8-07fa-6aeb-7651-1a2c76a6404e.htm" />
+  <HelpKINode Title="Weather.Icon property" Url="html/470792c5-c6bd-64da-0731-f6e1a6339922.htm" />
+  <HelpKINode Title="Weather.Id property" Url="html/9442c7f7-8be9-7aed-e950-7bb233ea65ca.htm" />
+  <HelpKINode Title="Weather.Main property" Url="html/b4fd929a-94ae-5a5f-e2ec-7fa17d71f1e2.htm" />
+  <HelpKINode Title="Weather.Weather constructor" Url="html/86f2f61c-6bdd-540c-92cd-6cbe47b51b1b.htm" />
+  <HelpKINode Title="WeatherInformationCombined class">
+    <HelpKINode Title="WeatherInformationCombined Class" Url="html/4ce18f0f-ec8c-07b2-10cf-5164e9d7beff.htm" />
+    <HelpKINode Title="about WeatherInformationCombined class" Url="html/4ce18f0f-ec8c-07b2-10cf-5164e9d7beff.htm" />
+    <HelpKINode Title="constructor" Url="html/0e40211c-3cb5-b3f7-3615-7b5a85728693.htm" />
+    <HelpKINode Title="properties" Url="html/3c92f9a5-1a44-0456-67f1-01fb6d131258.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WeatherInformationCombined.Base property" Url="html/26cc298c-764c-b1de-d77e-690383f67e02.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Clouds property" Url="html/511edc06-e931-f972-b77a-ceb02db7a671.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Cod property" Url="html/15499ba9-7eb0-9dcb-c489-5e9717e0f58f.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Coord property" Url="html/178ffd01-5410-7f86-ff21-c5c569ce9c63.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Dt property" Url="html/83206a6e-ac1b-8c6f-00a9-47993a92f697.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Id property" Url="html/ba0795b8-3569-7b1b-c680-c9d160dababb.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Main property" Url="html/891124bd-bf42-7881-e916-5257c4ed866f.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Name property" Url="html/aa24d752-ed4a-c505-e4f1-947435fb411c.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Sys property" Url="html/a803c8ae-d32a-a89f-0548-e187583c5e2b.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Weather property" Url="html/e32601b6-7ca0-17c7-f536-d23a317dbf29.htm" />
+  <HelpKINode Title="WeatherInformationCombined.WeatherInformationCombined constructor" Url="html/0e40211c-3cb5-b3f7-3615-7b5a85728693.htm" />
+  <HelpKINode Title="WeatherInformationCombined.Wind property" Url="html/60be62ce-20a9-bb87-2284-9559b04c53c2.htm" />
+  <HelpKINode Title="Wind class">
+    <HelpKINode Title="Wind Class" Url="html/6e7d829e-7eba-331a-8cde-88902d037673.htm" />
+    <HelpKINode Title="about Wind class" Url="html/6e7d829e-7eba-331a-8cde-88902d037673.htm" />
+    <HelpKINode Title="constructor" Url="html/2eb249ec-be84-e998-7c2d-a5176b72f9b7.htm" />
+    <HelpKINode Title="properties" Url="html/d48c1e51-fd8f-314c-8145-b474ccb00d15.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Wind property" Url="html/60be62ce-20a9-bb87-2284-9559b04c53c2.htm" />
+  <HelpKINode Title="Wind.Deg property" Url="html/62ca7f0f-3d7b-e92b-8e87-ce612c3ecd37.htm" />
+  <HelpKINode Title="Wind.Speed property" Url="html/0aa7fcd8-a949-5063-fe6a-93b34df77843.htm" />
+  <HelpKINode Title="Wind.Wind constructor" Url="html/2eb249ec-be84-e998-7c2d-a5176b72f9b7.htm" />
+</HelpKI>

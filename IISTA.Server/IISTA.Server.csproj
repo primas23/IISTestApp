@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1076A0C7-2FF7-4603-A3DE-ABDA64FB38C6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IISTA.Server</RootNamespace>
+    <AssemblyName>IISTA.Server</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\IISTA.Server.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServerCustom.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IISTA.AssemblySearch\IISTA.AssemblySearch.csproj">
+      <Project>{81ba6834-2af6-4419-bd90-2df601124c40}</Project>
+      <Name>IISTA.AssemblySearch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IISTA.Common\IISTA.Common.csproj">
+      <Project>{f410e7d8-dad2-42be-865c-737294d4b82f}</Project>
+      <Name>IISTA.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IISTA.CustomRouting\IISTA.CustomRouting.csproj">
+      <Project>{94aaae1b-f734-4715-9fe4-1c6b118f2be8}</Project>
+      <Name>IISTA.CustomRouting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IISTA.HttpRequest\IISTA.HttpRequest.csproj">
+      <Project>{75C71D15-5855-4FD3-AB3A-DB742C5D9E0E}</Project>
+      <Name>IISTA.HttpRequest</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IISTA.HttpResponse\IISTA.HttpResponse.csproj">
+      <Project>{5581e863-269d-4ac5-86c9-599a9e94e723}</Project>
+      <Name>IISTA.HttpResponse</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IISTA.Loger\IISTA.Loger.csproj">
+      <Project>{707f658c-099c-4ba7-9933-b515ef767406}</Project>
+      <Name>IISTA.Loger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IISTA.RazorEnginCustom\IISTA.RazorEnginCustom.csproj">
+      <Project>{8163a84c-1ea3-4e81-ac1c-dd27572c9f3f}</Project>
+      <Name>IISTA.RazorEnginCustom</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IISTA.RazorViewsCustom\IISTA.RazorViewsCustom.csproj">
+      <Project>{5eeed3e3-de9e-4ae1-a62d-ee127c4df801}</Project>
+      <Name>IISTA.RazorViewsCustom</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

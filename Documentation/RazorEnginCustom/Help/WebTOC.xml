@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="dd5fdd05-0d4c-42c1-b263-0bedf6cdf152" Title="IISTA.RazorEnginCustom" Url="html/a0372c56-c218-6890-a44b-1e026edec303.htm">
+    <HelpTOCNode Id="31fed70e-0565-40e0-91b5-a0206280cb07" Title="RazorPageConstructor Class" Url="html/ad47a8ea-9de1-2bfd-7bc0-c6c6aca4e525.htm">
+      <HelpTOCNode Title="RazorPageConstructor Constructor " Url="html/dc9bd676-c539-4b3d-6fa0-d2cfd2662623.htm" />
+      <HelpTOCNode Id="3308944c-b65b-4d9d-9893-4493d8dadc09" Title="RazorPageConstructor Methods" Url="html/4e50a860-ad40-df28-8e2b-ec2173b61ada.htm">
+        <HelpTOCNode Title="Add Method " Url="html/a8e8b3b6-65bc-1bfe-fc85-e02a04ebf9ee.htm" />
+        <HelpTOCNode Title="Render Method " Url="html/9fb6f9ae-b690-f110-101e-ee9126afa3e4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9805ac29-fdce-4170-99d9-08bc942c7304" Title="RazorPageConstructor Properties" Url="html/b5d45c04-531d-51b5-0029-2e378315cefb.htm">
+        <HelpTOCNode Title="HtmlElements Property " Url="html/e5280769-e6c1-f117-975d-4bc1bbd59c6f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="7c2312e8-b088-4d93-a608-bd84799cb086" Title="IISTA.RazorEnginCustom.HtmlElements" Url="html/0d7e2679-2989-ae24-1a63-f150dfe19dd9.htm">
+    <HelpTOCNode Id="952a4219-b8cf-491e-8f79-3f3dbc0821ad" Title="HtmlAttributes Class" Url="html/28363ec5-b180-ebd5-e37c-038b266d5cbf.htm">
+      <HelpTOCNode Id="5ec755c3-1b0d-4b18-a943-d9fbd9460f68" Title="HtmlAttributes Constructor " Url="html/b248f69e-dc3a-2310-603a-f67f4ccf9418.htm">
+        <HelpTOCNode Title="HtmlAttributes Constructor " Url="html/81ab3c04-7607-1790-03a3-9a692c9dbe36.htm" />
+        <HelpTOCNode Title="HtmlAttributes Constructor (String, AttributeType)" Url="html/c217db14-1e95-5480-1804-23b09159894d.htm" />
+        <HelpTOCNode Title="HtmlAttributes Constructor (String, String)" Url="html/e9c0e7d6-ef03-25c3-1d2d-47fa9520e679.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="373d2c1d-a2cc-41a5-8071-2071466b2910" Title="HtmlAttributes Methods" Url="html/09125b92-175c-f2aa-b979-a95e2b101772.htm">
+        <HelpTOCNode Title="ToString Method " Url="html/e12dca72-cc1e-39e8-34c0-7f8fde8f0454.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="874ff493-3282-4916-9495-07528acf260f" Title="HtmlAttributes Properties" Url="html/4f0ce331-0d3e-0df8-99fd-0bb935f5ac5c.htm">
+        <HelpTOCNode Title="Key Property " Url="html/079de3a9-f9f5-1dd8-f5b0-a1037354fb73.htm" />
+        <HelpTOCNode Title="Value Property " Url="html/7082d216-614d-bda8-deb2-87ffd769a76d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="38d099d2-e3d4-440d-9305-2bb77bf5a230" Title="HtmlTag Class" Url="html/9284e856-3032-2273-7f37-a91d87340cee.htm">
+      <HelpTOCNode Id="7297ab07-83ce-45bd-a01f-0eb1f337840b" Title="HtmlTag Constructor " Url="html/3cc6d84a-1715-d7a4-ef03-fa7e540b1e6b.htm">
+        <HelpTOCNode Title="HtmlTag Constructor " Url="html/5c281c14-0faa-c43d-ca60-6fa216285488.htm" />
+        <HelpTOCNode Title="HtmlTag Constructor (TagType)" Url="html/632e8f0a-afb9-9984-658f-3fcf6eb4299b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="87fbfd43-2000-49a7-9db6-9b118c55af02" Title="HtmlTag Fields" Url="html/57221842-4493-eaed-3a76-e6c9d374b51c.htm">
+        <HelpTOCNode Title="tagTemplate Field" Url="html/a2abc2df-c7e2-7539-3689-0937ea003c1f.htm" />
+        <HelpTOCNode Title="tagTemplateSingle Field" Url="html/c1825424-9994-637d-350e-19fc1bc2d990.htm" />
+        <HelpTOCNode Title="tagType Field" Url="html/0f5931bc-2bd7-b752-ef4a-aa17879e4f8c.htm" />
+        <HelpTOCNode Title="text Field" Url="html/6e8345cf-67b4-ca68-3a2f-61472321754f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9b98c657-02f3-4a20-a371-d8b27fa1376e" Title="HtmlTag Methods" Url="html/4a4300b8-dcba-ffd6-9755-e1b4fb1e8441.htm">
+        <HelpTOCNode Title="AddAttribute Method " Url="html/797b6d52-fd47-5c7c-4fc9-afc84176314c.htm" />
+        <HelpTOCNode Title="Render Method " Url="html/83b58333-28e2-cb9e-7561-b297e464574f.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/394d0d36-0da8-fe12-2a8b-3894ffd70f65.htm" />
+        <HelpTOCNode Id="11a61579-0ab7-4aed-80dd-70ffc131d977" Title="With Method " Url="html/f671d2f6-d96e-b60c-45a0-3e4c5f5ddd8a.htm">
+          <HelpTOCNode Title="With Method (ITag)" Url="html/733b70f8-e5c9-1a7c-9f10-78ea1e7e6388.htm" />
+          <HelpTOCNode Title="With Method (String)" Url="html/839f6628-9373-84db-8eeb-8280adcc7117.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="53228329-29ca-4ac3-bafc-494c464187ff" Title="HtmlTag Properties" Url="html/dfac087d-c76f-50d0-6d1d-d42d96934fdf.htm">
+        <HelpTOCNode Title="Attributes Property " Url="html/fbb1f62e-d422-39df-f2bf-708ec3b28460.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

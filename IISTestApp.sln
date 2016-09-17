@@ -1,0 +1,139 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.Startup", "IISTA.Startup\IISTA.Startup.csproj", "{449A4151-C866-4A48-978F-23A0A16195C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.Server", "IISTA.Server\IISTA.Server.csproj", "{1076A0C7-2FF7-4603-A3DE-ABDA64FB38C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.HttpRequest", "IISTA.HttpRequest\IISTA.HttpRequest.csproj", "{75C71D15-5855-4FD3-AB3A-DB742C5D9E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.Common", "IISTA.Common\IISTA.Common.csproj", "{F410E7D8-DAD2-42BE-865C-737294D4B82F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.RazorEnginCustom", "IISTA.RazorEnginCustom\IISTA.RazorEnginCustom.csproj", "{8163A84C-1EA3-4E81-AC1C-DD27572C9F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.RazorViewsCustom", "IISTA.RazorViewsCustom\IISTA.RazorViewsCustom.csproj", "{5EEED3E3-DE9E-4AE1-A62D-EE127C4DF801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.HttpResponse", "IISTA.HttpResponse\IISTA.HttpResponse.csproj", "{5581E863-269D-4AC5-86C9-599A9E94E723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.CustomRouting", "IISTA.CustomRouting\IISTA.CustomRouting.csproj", "{94AAAE1B-F734-4715-9FE4-1C6B118F2BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.Models", "IISTA.Models\IISTA.Models.csproj", "{566C02A0-CFEC-4D61-9E6F-EBA91AF9B8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.WeatherCrawler", "IISTA.WeatherCrawler\IISTA.WeatherCrawler.csproj", "{D1525B6C-B7F1-4A28-A690-A87456837BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.Loger", "IISTA.Loger\IISTA.Loger.csproj", "{707F658C-099C-4BA7-9933-B515EF767406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.AssemblySearch", "IISTA.AssemblySearch\IISTA.AssemblySearch.csproj", "{81BA6834-2AF6-4419-BD90-2DF601124C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTA.Tests", "IISTA.Tests\IISTA.Tests.csproj", "{6FC8888F-4A45-4A01-ABB5-F60AB60ABEB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449A4151-C866-4A48-978F-23A0A16195C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449A4151-C866-4A48-978F-23A0A16195C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449A4151-C866-4A48-978F-23A0A16195C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449A4151-C866-4A48-978F-23A0A16195C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1076A0C7-2FF7-4603-A3DE-ABDA64FB38C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1076A0C7-2FF7-4603-A3DE-ABDA64FB38C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1076A0C7-2FF7-4603-A3DE-ABDA64FB38C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1076A0C7-2FF7-4603-A3DE-ABDA64FB38C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C71D15-5855-4FD3-AB3A-DB742C5D9E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C71D15-5855-4FD3-AB3A-DB742C5D9E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C71D15-5855-4FD3-AB3A-DB742C5D9E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C71D15-5855-4FD3-AB3A-DB742C5D9E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F410E7D8-DAD2-42BE-865C-737294D4B82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F410E7D8-DAD2-42BE-865C-737294D4B82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F410E7D8-DAD2-42BE-865C-737294D4B82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F410E7D8-DAD2-42BE-865C-737294D4B82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8163A84C-1EA3-4E81-AC1C-DD27572C9F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8163A84C-1EA3-4E81-AC1C-DD27572C9F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8163A84C-1EA3-4E81-AC1C-DD27572C9F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8163A84C-1EA3-4E81-AC1C-DD27572C9F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEED3E3-DE9E-4AE1-A62D-EE127C4DF801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEED3E3-DE9E-4AE1-A62D-EE127C4DF801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEED3E3-DE9E-4AE1-A62D-EE127C4DF801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEED3E3-DE9E-4AE1-A62D-EE127C4DF801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5581E863-269D-4AC5-86C9-599A9E94E723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5581E863-269D-4AC5-86C9-599A9E94E723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5581E863-269D-4AC5-86C9-599A9E94E723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5581E863-269D-4AC5-86C9-599A9E94E723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AAAE1B-F734-4715-9FE4-1C6B118F2BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AAAE1B-F734-4715-9FE4-1C6B118F2BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AAAE1B-F734-4715-9FE4-1C6B118F2BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AAAE1B-F734-4715-9FE4-1C6B118F2BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{566C02A0-CFEC-4D61-9E6F-EBA91AF9B8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566C02A0-CFEC-4D61-9E6F-EBA91AF9B8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566C02A0-CFEC-4D61-9E6F-EBA91AF9B8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566C02A0-CFEC-4D61-9E6F-EBA91AF9B8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1525B6C-B7F1-4A28-A690-A87456837BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1525B6C-B7F1-4A28-A690-A87456837BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1525B6C-B7F1-4A28-A690-A87456837BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1525B6C-B7F1-4A28-A690-A87456837BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707F658C-099C-4BA7-9933-B515EF767406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707F658C-099C-4BA7-9933-B515EF767406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707F658C-099C-4BA7-9933-B515EF767406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707F658C-099C-4BA7-9933-B515EF767406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BA6834-2AF6-4419-BD90-2DF601124C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BA6834-2AF6-4419-BD90-2DF601124C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BA6834-2AF6-4419-BD90-2DF601124C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BA6834-2AF6-4419-BD90-2DF601124C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC8888F-4A45-4A01-ABB5-F60AB60ABEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC8888F-4A45-4A01-ABB5-F60AB60ABEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC8888F-4A45-4A01-ABB5-F60AB60ABEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC8888F-4A45-4A01-ABB5-F60AB60ABEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 14
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://server1.cleancode.factory:8080/tfs/ccf
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = IISTA.Startup\\IISTA.Startup.csproj
+		SccProjectName1 = IISTA.Startup
+		SccLocalPath1 = IISTA.Startup
+		SccProjectUniqueName2 = IISTA.Server\\IISTA.Server.csproj
+		SccProjectName2 = IISTA.Server
+		SccLocalPath2 = IISTA.Server
+		SccProjectUniqueName3 = IISTA.HttpRequest\\IISTA.HttpRequest.csproj
+		SccProjectName3 = IISTA.HttpRequest
+		SccLocalPath3 = IISTA.HttpRequest
+		SccProjectUniqueName4 = IISTA.Common\\IISTA.Common.csproj
+		SccProjectName4 = IISTA.Common
+		SccLocalPath4 = IISTA.Common
+		SccProjectUniqueName5 = IISTA.RazorEnginCustom\\IISTA.RazorEnginCustom.csproj
+		SccProjectName5 = IISTA.RazorEnginCustom
+		SccLocalPath5 = IISTA.RazorEnginCustom
+		SccProjectUniqueName6 = IISTA.RazorViewsCustom\\IISTA.RazorViewsCustom.csproj
+		SccProjectName6 = IISTA.RazorViewsCustom
+		SccLocalPath6 = IISTA.RazorViewsCustom
+		SccProjectUniqueName7 = IISTA.HttpResponse\\IISTA.HttpResponse.csproj
+		SccProjectName7 = IISTA.HttpResponse
+		SccLocalPath7 = IISTA.HttpResponse
+		SccProjectUniqueName8 = IISTA.CustomRouting\\IISTA.CustomRouting.csproj
+		SccProjectName8 = IISTA.CustomRouting
+		SccLocalPath8 = IISTA.CustomRouting
+		SccProjectUniqueName9 = IISTA.Models\\IISTA.Models.csproj
+		SccProjectName9 = IISTA.Models
+		SccLocalPath9 = IISTA.Models
+		SccProjectUniqueName10 = IISTA.WeatherCrawler\\IISTA.WeatherCrawler.csproj
+		SccProjectName10 = IISTA.WeatherCrawler
+		SccLocalPath10 = IISTA.WeatherCrawler
+		SccProjectUniqueName11 = IISTA.Loger\\IISTA.Loger.csproj
+		SccProjectName11 = IISTA.Loger
+		SccLocalPath11 = IISTA.Loger
+		SccProjectUniqueName12 = IISTA.AssemblySearch\\IISTA.AssemblySearch.csproj
+		SccProjectName12 = IISTA.AssemblySearch
+		SccLocalPath12 = IISTA.AssemblySearch
+		SccProjectUniqueName13 = IISTA.Tests\\IISTA.Tests.csproj
+		SccProjectName13 = IISTA.Tests
+		SccLocalPath13 = IISTA.Tests
+	EndGlobalSection
+EndGlobal

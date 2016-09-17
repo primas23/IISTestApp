@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="6f7e3909-34fc-4d96-b74c-31c2e9e91681" Title="IISTA.HttpResponse" Url="html/0ff400ae-7368-8c9d-48b5-e335ea4d115c.htm">
+    <HelpTOCNode Id="17d8d544-a503-42dd-b5f8-c2101454c4bd" Title="HttpResponseCustom Class" Url="html/35841005-a61a-4f4e-aaa4-be9748d2e3ec.htm">
+      <HelpTOCNode Title="HttpResponseCustom Constructor " Url="html/790d5aff-f54f-3503-9341-12610f389227.htm" />
+      <HelpTOCNode Id="10ca4e6a-d102-4559-a564-8fcd4bd68505" Title="HttpResponseCustom Fields" Url="html/f57536d1-d64a-a676-dd71-bc7681a2e5e5.htm">
+        <HelpTOCNode Title="_socket Field" Url="html/d7da25fb-465b-8f32-2213-ac49fbb6c24a.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a623f406-7fa8-4ff5-bc52-759ac3c80afc" Title="HttpResponseCustom Methods" Url="html/1dfe78a9-d583-d5fd-03ba-36e4f58e7690.htm">
+        <HelpTOCNode Title="SendResponse Method " Url="html/b208b9fb-1b84-0ac5-5e28-c9b23cf13fa9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
