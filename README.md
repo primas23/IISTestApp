@@ -1,4 +1,6 @@
-# IISTestApp
+# Internet Information Services Application
+
+### Custom build IIS server with razor-like engine
 
 ## Build status
 
